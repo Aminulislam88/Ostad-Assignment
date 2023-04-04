@@ -1,0 +1,8 @@
+Fristly I implement all of html part, its create a demo then lastly I create design part
+means CSS.One of the biggest challenges of creating a blog is designing and customizing 
+it to meet your specific needs because I am beginner about CSS. If you don't have
+a background in design, this can be a easy task. One solution is to use pre-designed
+templates and themes that can be customized to your liking.But I use raw CSS
+for this design.Another challenge is creating content that is engaging and informative.
+This can be overcome by conducting thorough research on this blog topic.And Finally
+I create a basic blog site What you needed.

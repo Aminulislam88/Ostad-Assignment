@@ -1,0 +1,110 @@
+body{
+    margin: 20;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: #332;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+
+}
+
+.logo img{
+    max-width: 20%;
+    height: auto;
+}
+nav ul {
+    list-style: none;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+nav a:hover{
+    color: #ff6600;
+}
+.main{
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+.feature-post{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+}
+
+.post-image img{
+    max-width: 25%;
+    height: auto;
+}
+.post-tittle{
+    text-align: center;
+    margin: 1rem 0;
+}
+.post-tittle a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.post-tittle a:hover{
+    color: #ff6600;
+    text-decoration: underline;
+}
+footer{
+    background-color: #332;
+    color: #fff;
+    text-align: center;
+    padding: 0.2rem;
+}
+.search form{
+    padding: 20px;
+    text-align: center;
+}
+.categories a{
+    color: #332;
+    padding: 2rem;
+    text-decoration: none;
+
+}
+.categories a:hover{
+    color: #ff6600;
+}
+.categories ul{
+    list-style: none;
+}
+
+.social-sharing ul{
+    list-style: none;
+}
+.social-sharing a{
+    color: #332;
+    text-decoration: none;
+    padding: 2rem;
+}
+.social-sharing a:hover{
+    color: #ff6600;
+}
+.form-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-input form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+.form-input button{
+    margin: 1rem;
+}
+.form-input button:hover{
+    color: #ff6600;
+}
